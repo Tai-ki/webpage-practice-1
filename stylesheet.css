@@ -2,17 +2,16 @@ header{
  height:90px;
  background-color:#0d0015;
  color:#fff;
+ float:left;
  }
 
 header-logo{
  font-size:120px;
- float:left;
  font-size:30px;
  padding:25px 60px;
 }
  
  header-list li{
-  float:left;
   padding:33px 40px;
   list-style:none;
   font-size:25px;
