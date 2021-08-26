@@ -1,17 +1,14 @@
 header{
- width:500px;
  height:90px;
  background-color:#0d0015;
  color:#fff;
  }
 
 header-logo{
-
  font-size:120px;
  float:left;
  font-size:30px;
  padding:25px 60px;
-
 }
  
  header-list li{
