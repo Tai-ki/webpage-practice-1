@@ -1,8 +1,7 @@
 header{
  color:#fff;
  height:90px;
- background-color:#0;
-  font-family: Ryumin Ultra KL;
+ background-color:#000;
  }
 
 header-logo{
@@ -40,10 +39,9 @@ header-logo{
  }
  
  footer{
-  background-color:#0;
+  background-color:#000;
   color:#fff;
   height:200px;
-   font-family: Ryumin Ultra KL;
  }
  
  footer-logo{
