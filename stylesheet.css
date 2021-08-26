@@ -1,7 +1,7 @@
 header{
  color:#fff;
  height:90px;
- background-color:#000;
+ background-color:#000000;
  }
 
 header-logo{
@@ -39,7 +39,7 @@ header-logo{
  }
  
  footer{
-  background-color:#000;
+  background-color:#000000;
   color:#fff;
   height:200px;
  }
