@@ -1,21 +1,24 @@
 header{
- color:#0d0015;
  height:90px;
  background-color:#0d0015;
  }
 
 header-logo{
+ color:#fff;
  font-size:120px;
  float:left;
  font-size:30px;
  padding:25px 60px;
- }
+background-color:#000;
+}
  
  header-list li{
   float:left;
   padding:33px 40px;
   list-style:none;
   font-size:25px;
+  color:#fff;
+  background-color:#000;
  }
  
  main{
