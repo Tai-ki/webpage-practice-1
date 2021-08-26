@@ -1,1 +1,65 @@
+header{
+ color:#fff;
+ height:90px;
+ background-color:#0;
+  font-family: Ryumin Ultra KL;
+ }
 
+header-logo{
+ font-size:120px;
+ float:left;
+ font-size:30px;
+ padding:25px 60px;
+ }
+ 
+ header-list li{
+  float:left;
+  padding:33px 40px;
+  list-style:none;
+  font-size:25px;
+ }
+ 
+ main{
+  padding:100px 80px;
+  background-color:#a9a9a9;
+   font-family: Ryumin Ultra KL;
+ }
+ 
+ .copy-container h1{
+  font-size:80px;
+  color:#fff;
+ }
+ 
+ .copy-container h2{
+  font-size:60px;
+ }
+ 
+ .copy-container span{
+  font-size:180px;
+  color:#ff0000;
+ }
+ 
+ footer{
+  background-color:#0;
+  color:#fff;
+  height:200px;
+   font-family: Ryumin Ultra KL;
+ }
+ 
+ footer-logo{
+  font-size:30px; 
+  padding-top:30px;
+ }
+ 
+ footer-list li{
+  float:right;
+  list-style:none;
+  padding-bottom:20px;
+  padding-right:30px;
+ }
+ 
+ footer p{
+   float:left;
+  padding-top:30px;
+  padding-bottom:30px; 
+ }
